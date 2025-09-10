@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    background-color: beige;
+    font-size: 35px;
+    padding: auto;
+}
+
+h2 {
+    background-color: beige;
+    color: black;
+}
+
+table {
+    background-color: rgba(0, 0, 0, 0.201);
+    color:azure
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.201);
+    color: azure
+}
+
